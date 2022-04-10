@@ -23,6 +23,6 @@ Analyzing Amazon reviews written by the members of the paid Amazon Vine program 
 <br>
 
 ## Summary: 
-For the wireless Amazon reviews, dataset is 9,002,021. Though the Amazon Vine reviews is a small part of all the reviews. Out of 17,481 nearly 37% of the reviews are with 5 stars. The other review group with 5 stars is non-Vine, it is nearly 53%. Vine reviews also include less than 5 stars as well. 4 star reveiws are 37% and 3 star reviews are 16%. Based on non-Vine vs Vine member reviews, it seems like   
+For the wireless Amazon reviews, dataset is 9,002,021. Though the Amazon Vine reviews is a small part of all the reviews. Out of 17,481 nearly 37% of the reviews are with 5 stars. The other review group with 5 stars is non-Vine, it is nearly 53%. Vine reviews also include less than 5 stars as well. 4 star reveiws are 37% and 3 star reviews are 16%.   
 
 
